@@ -1,0 +1,1 @@
+Sitemap: https://lsc-hubs.github.io/quarto-template/sitemap.xml
